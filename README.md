@@ -3,7 +3,7 @@
 
  CryptoGenesis was designed to generate ambiguous project names based off of the cryptonym format of major US Government agencies. However I have begun adapting this for other means. This can aid the user in generating their own diagraphs randomly for their own definitions. 
  
- Most notable 3 letter agencies typically use a two word sequence when fielding code names or code words when referring to projects, operations, persons, agencies, etc. 
+ Most notable 3 letter agencies typically use a two word sequence when fielding code names or code words when referring to projects, operations, persons, agencies, etc. This however just takes databases of words and melds them together randomly. 
  
  
 ***Roadmap***
